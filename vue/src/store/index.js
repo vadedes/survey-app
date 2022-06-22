@@ -8,7 +8,7 @@ const tmpSurveys = [
     slug: "thecodeholic-youtube-channel-content",
     status: "draft",
     image:
-      "https://pbs.twmg.com/profile_images/1118059535003017221/9ZwEYqj2_400x400.png",
+      "https://pbs.twimg.com/profile_images/1118059535003017221/9ZwEYqj2_400x400.png",
     description:
       "My name is Zura. <br> I am a Web Developer with 9+ years of experience, free educational content at my website.",
     create_at: "2021-12-20 18:00:00",
